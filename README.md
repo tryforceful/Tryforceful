@@ -1,4 +1,5 @@
 # ![Triforce Logo](https://avatars2.githubusercontent.com/u/8162501?s=48) Rob Keleher ([@tryforceful](http://www.github.com/tryforceful))
+![Cover image: Rob Keleher](cover.jpg)
 
 ## :small_red_triangle: GitHub Projects
 
